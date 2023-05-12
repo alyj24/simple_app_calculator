@@ -36,7 +36,7 @@ while True:
             print("\033[94mThe outcome of your input is: ", result4)
         # once again, ask the user if want to try again or not
         option = input("\033[95mNice choice of your operation and number! Do you want to try again? (yes, indeed/already satisfied): ")
-        if option == "already satisfied"
+        if option == "already satisfied":
             print("\033[96mThank you!")
             break
     else:
