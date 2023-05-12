@@ -15,6 +15,7 @@ break = this is used to control the sequence of the loop.
 ```
 # Launch
 GIT BASH PROOFS
+
 ![image](https://github.com/alyj24/simple_app_calculator/assets/129832127/b1dc0c39-1273-4417-b256-48795055fbf5)
 ![image](https://github.com/alyj24/simple_app_calculator/assets/129832127/5d7ac6be-e520-43b6-b21c-8f277f6a38d9)
 ![image](https://github.com/alyj24/simple_app_calculator/assets/129832127/e928a429-0d66-4582-ad96-38bfcd22a00b)
