@@ -8,7 +8,10 @@ print("\033[92m=" * 42)
 # last goal of the program is to ask whether the user want to try another problem or not.
 
 # pseudocode
-# ask the user for its choice of operation and save the input
+while True:
+    # ask the user for its choice of operation and save the input
+    print("Great Day, a precious well-being!")
+    selection = input("Pick a basic math operation among these four (+|-|*|/): ")
 # use try and except function
 # ask the user for two variables to solve
 # recognize the two input numbers and solve for the choice of operation
