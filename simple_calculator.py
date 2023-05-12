@@ -20,6 +20,18 @@ while True:
              var2 = float(input("Enter your second variable number:"))
         except ValueError:
             print("Oops! Take a look back for a second, there must be a problem.")
-# recognize the two input numbers and solve for the choice of operation
-# print the output
+        # recognize the two input numbers and solve for the choice of operation
+        if selection == '+':
+            result1 = ((var1+var2))
+        # print the output
+            print("The outcome of your input is: ", result1)
+        elif selection == '-':
+            result2 = ((var1-var2))
+            print("The outcome of your input is: ", result2)
+        elif selection == '*':
+            result3 = ((var1*var2))
+            print("The outcome of your input is: ", result3)
+        elif selection == '/':
+            result4 = ((var1/var2))
+            print("The outcome of your input is: ", result4)
 # once again, ask the user if want to try again or not
