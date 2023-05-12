@@ -7,3 +7,10 @@ print("\033[92m=" * 42)
 # the finally, will display the result.
 # last goal of the program is to ask whether the user want to try another problem or not.
 
+# pseudocode
+# ask the user for its choice of operation and save the input
+# use try and except function
+# ask the user for two variables to solve
+# recognize the two input numbers and solve for the choice of operation
+# print the output
+# once again, ask the user if want to try again or not
