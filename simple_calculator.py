@@ -34,4 +34,10 @@ while True:
         elif selection == '/':
             result4 = ((var1/var2))
             print("The outcome of your input is: ", result4)
-# once again, ask the user if want to try again or not
+        # once again, ask the user if want to try again or not
+        option = input("Nice choice of your operation and number! Do you want to try again? (yes, indeed/already satisfied): ")
+        if option == "already satisfied"
+            print("Thank you!")
+            break
+    else:
+        print("Oh no! There must be a problem in your input to be invalid.")
